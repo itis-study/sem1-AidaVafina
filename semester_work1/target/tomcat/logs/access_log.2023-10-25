@@ -1,0 +1,5 @@
+127.0.0.1 - - [25/Oct/2023:10:44:12 +0300] "GET /semester_work1 HTTP/1.1" 302 - http-bio-8090-exec-8 0
+127.0.0.1 - - [25/Oct/2023:10:44:12 +0300] "GET /semester_work1 HTTP/1.1" 302 - http-bio-8090-exec-9 0
+127.0.0.1 - - [25/Oct/2023:10:44:12 +0300] "GET /semester_work1/ HTTP/1.1" 200 670 http-bio-8090-exec-8 66
+127.0.0.1 - - [25/Oct/2023:10:44:12 +0300] "GET /semester_work1/ HTTP/1.1" 200 670 http-bio-8090-exec-9 41
+127.0.0.1 - - [25/Oct/2023:10:44:12 +0300] "GET /semester_work1/styles.css HTTP/1.1" 304 - http-bio-8090-exec-9 13

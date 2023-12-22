@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4713b5df-3b10-4015-a7ec-b0011fdcff46" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2XGpUIrqfCnhsz3BvIVbpFamqjk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/79874/Desktop/Vafina_11-204/3sem/semester_work1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\79874\Desktop\semester_work1\src\main\webapp\pictures" />
+      <recent name="C:\Users\79874\Desktop\semester_work1\src\main\webapp\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4713b5df-3b10-4015-a7ec-b0011fdcff46" name="Changes" comment="" />
+      <created>1698265285145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698265285145</updated>
+      <workItem from="1698265286151" duration="4225000" />
+      <workItem from="1698405149962" duration="411000" />
+      <workItem from="1698453359734" duration="51000" />
+      <workItem from="1698919556626" duration="5733000" />
+      <workItem from="1699202503465" duration="801000" />
+      <workItem from="1699206063908" duration="1126000" />
+      <workItem from="1699211691153" duration="9000" />
+      <workItem from="1699221388425" duration="16000" />
+      <workItem from="1699259955894" duration="14000" />
+      <workItem from="1699283985045" duration="355000" />
+      <workItem from="1699285086659" duration="8408000" />
+      <workItem from="1699556227775" duration="3704000" />
+      <workItem from="1699563291641" duration="344000" />
+      <workItem from="1699620766003" duration="4732000" />
+      <workItem from="1699642307682" duration="6732000" />
+      <workItem from="1699660168628" duration="766000" />
+      <workItem from="1699688210746" duration="3575000" />
+      <workItem from="1703237655889" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
